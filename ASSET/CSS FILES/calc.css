@@ -1,0 +1,177 @@
+#container{
+    background-color: #AFEEEE;
+    height:590px;
+    width:367px;
+    border-radius:5px;
+    position:relative;
+    top:100px;
+    left:30%;
+}
+
+.screen{
+    background-color: #ffff99;
+    width:320px;
+    height:100px;
+    position:relative;
+    top:20px;
+    left:15px;
+}
+.screen input{
+    position:relative;
+    left:1px;
+    top:3px;
+    height:90px;
+    width:310px;
+    color:black;
+    background-color:#e5dfa0;
+    font-size:25px;
+    text-align:right;
+}
+.btns{
+    position:relative;
+    left:3px;
+    top:15px;
+}
+.button{
+    width:40px;
+    height:30px;
+    border:none;
+    border-radius:7px;
+    margin-left: 10px;
+    cursor:pointer;
+}
+.button.black{
+    color:white;
+    background-color:black;
+    border-bottom:2px solid #647489;
+    border-top: 2px black;
+    left:15px;
+    position:relative;
+}
+.button.silver{
+    color:white;
+    background-color:#647489;
+    border-bottom:2px solid black;
+    width:50px;
+    left:15px;
+    position:relative;
+}
+.button.red{
+    color:white;
+    background-color:red;
+    border-bottom:5px solid blue;
+    width:50px;
+    left:15px;
+    position:relative;
+}
+
+.button.purple{
+    color:white;
+    background-color:black;
+    border-bottom:2px solid #647489;
+    border-top: 2px black;
+    width:45px;
+    height:60px;
+    right:7px;
+    position:relative;
+    top:10px;
+}
+
+.button.yellow{
+    color:white;
+    background-color:black;
+    border-bottom:2px solid #647489;
+    border-top: 2px black;
+    width:45px;
+    position:relative;
+    top:20px;
+    left:15px;
+}
+
+.button.wine{
+    color:white;
+    background-color:black;
+    border-bottom:2px solid #647489;
+    border-top: 2px black;
+    left:4px;
+    position: relative;
+    top:20px;
+    width:25px;
+}
+.button.wine2{
+    color:white;
+    background-color:black;
+    border-bottom:2px solid #647489;
+    border-top: 2px black;
+    right:16px;
+    position: relative;
+    top:20px;
+    width:25px;
+}
+.button.wine3{
+    color:white;
+    background-color:black;
+    border-bottom:2px solid #647489;
+    border-top: 2px black;
+    right:20px;
+    position: relative;
+    top:20px;
+}
+.button.indigo{
+    color:white;
+    background-color:black;
+    border-bottom:2px solid #647489;
+    border-top: 2px black;
+    left:15px;
+    position: relative;
+    top:20px;
+}
+.button.wine4{
+    color:white;
+    background-color:black;
+    border-bottom:2px solid #647489;
+    border-top: 2px black;
+    width:53px;
+    right:30px;
+    position:relative;
+    top:20px;
+}
+
+.button.white1{
+    color:white;
+    background-color:black;
+    border-bottom:4px solid blue;
+    border-top: 2px black;
+    width:47px;
+    height:20px;
+    top:20px;
+    left:190px;
+    position:relative;
+}
+
+.button.white2{
+    color:white;
+    background-color:black;
+    border-bottom:4px solid blue;
+    border-top: 2px black;
+    width:35px;
+    height:20px;
+    top:20px;
+    left:190px;
+    position:relative;
+}
+
+.button.white3{
+    color:white;
+    background-color:black;
+    border-bottom:4px solid blue;
+    border-top: 2px black;
+    width:35px;
+    height:20px;
+    top:20px;
+    left:190px;
+    position:relative;
+}
+p{
+    line-height: 30px;
+}
